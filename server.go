@@ -20,8 +20,8 @@ import (
 	"log"
 	"net"
 
-	"github.com/ahmetb/coredns-grpc-backend-sample/pb"
 	"github.com/miekg/dns"
+	"github.com/moabukar/gRPC-coreDNS/pb"
 	"google.golang.org/grpc"
 )
 
