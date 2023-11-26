@@ -1,4 +1,4 @@
-# Sample gRPC backend for CoreDNS
+# Setting up coreDNS using gRPC backend
 
 #### Generate the gRPC stubs
 
